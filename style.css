@@ -1,0 +1,11 @@
+.alert-success{
+    background-color: lightgreen;
+}
+.alert-worning{
+    background-color: lightcoral;
+}
+.alert-success, 
+.alert-worning{
+    color: white;
+    padding: 8px;
+}
